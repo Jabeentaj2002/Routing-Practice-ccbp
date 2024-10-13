@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-img {
+  height: 180px;
+  width: 180px;
+}
+
+.contact-txt {
+  color: #6d396b;
+  font-size: 32px;
+  font-weight: 400;
+}

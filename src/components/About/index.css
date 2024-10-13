@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-img {
+  height: 180px;
+  width: 180px;
+}
+
+.about-text {
+  color: #6d396b;
+  font-size: 32px;
+  font-weight: 400;
+}
